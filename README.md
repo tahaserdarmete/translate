@@ -22,5 +22,8 @@ Developed using React, Redux Toolkit, TailwindCSS, and Vite technologies.
 - React Select
 - Vite
 
+  ## 👉 🗣️ Live Demo
+  https://tsm-translate.netlify.app/
+
 ## 📸 ScreenShot
 <img src="translate.gif" />
